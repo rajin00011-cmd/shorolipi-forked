@@ -226,7 +226,7 @@ c("কাঁচা") --> d("kãca")
 
 flowchart LR
 a("আহ্বান") --> b("aobhan")
-c("চিহ্ন") --> d("cinnho অথবা, cinnho")
+c("চিহ্ন") --> d("cinnho অথবা, cinho")
 
 ```
 
