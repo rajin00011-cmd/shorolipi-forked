@@ -1,6 +1,6 @@
 # Shörolipi (সরলিপি)
 ### Shörol (সরল) + Shör (স্বর) + Lipi (লিপি)
-maintainers: @rank-coder @Shoshostro
+maintainers: @rank-coder @shoshostro
 
 ![shorolipi](https://socialify.git.ci/KhiproTeam/shorolipi/image?description=1&forks=1&issues=1&language=0&logo=https://github.com/KhiproTeam/shorolipi-logo/blob/main/bn-shorolipi.png?raw=true&name=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Auto)
 
@@ -8,7 +8,7 @@ maintainers: @rank-coder @Shoshostro
 Type Banglish exactly the way it sounds.\
 Banglish typing is messy, ambiguous, and inefficient. Shörolipi fixes this with just 26 keys — no obscure symbols, no extra effort. It can be implemented seamlessly on any QWERTY keyboard and captures the exact Bengali pronunciation, making typing faster, clearer, and phonetically precise.\
 বাংলিশ লিখুন নিখুঁত উচ্চারণ-অনুসারে।\
-আমাদের বাংলিশ টাইপিং অগোছালো, দ্বিধাপূর্ণ, এবং খামতিতে ভরা। সরলিপি মাত্র ২৬টি কী (key) ব্যবহার করে এর সমাধান দেয় — কোনো অস্পষ্ট প্রতীক বা বাড়তি পরিশ্রম ছাড়াই। এটি যেকোনো QWERTY কিবোর্ডে অনায়াসেই ব্যবহার করা যায় এবং বাংলার প্রতিটি ধ্বনি প্রকাশের ক্ষমতা রাখে। টাইপিংকে করে তোলে আরও দ্রুত, স্বচ্ছ এবং উচ্চারণগতভাবে স্পষ্ট।\
+আমাদের বাংলিশ টাইপিং অগোছালো, দ্বিধাপূর্ণ, এবং খামতিতে ভরা। সরলিপি মাত্র ২৬টি কি (key) ব্যবহার করে এর সমাধান দেয় — কোনো অস্পষ্ট প্রতীক বা বাড়তি পরিশ্রম ছাড়াই। এটি যেকোনো QWERTY কিবোর্ডে অনায়াসেই ব্যবহার করা যায় এবং বাংলার প্রতিটি ধ্বনি প্রকাশের ক্ষমতা রাখে। টাইপিংকে করে তোলে আরও দ্রুত, স্বচ্ছ এবং উচ্চারণগতভাবে স্পষ্ট।\
 এর উপযুক্ত ব্যবহার হতে পারে ভিনভাষীদের সহজে বাংলা শেখাতে, কিংবা বাংলা টেক্সট অসমর্থিত প্ল্যাটফর্মে, কিংবা দৈনন্দিন টেক্সটিংয়ে।
 ### Key Features
 ```mermaid
