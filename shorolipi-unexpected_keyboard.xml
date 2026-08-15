@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<keyboard name="Baŋla (Shörolipi)" script="latin">
+    
+    <!-- Number Row -->
+    <row>
+        <key key0="1" key2="!" />
+        <key key0="2" key2="@" />
+        <key key0="3" key2="#" />
+        <key key0="4" key2="$" />
+        <key key0="5" key2="%" />
+        <key key0="6" key2="^" />
+        <key key0="7" key2="&amp;" />
+        <key key0="8" key2="*" />
+        <key key0="9" key2="(" />
+        <key key0="0" key2=")" />
+        <key key0="-" key2="_" />
+        <key key0="=" key2="+" />
+    </row>
+    
+    <!-- Top Row (QWERTY Q-P) -->
+    <row>
+        <key key0="ṛ" key2="Ṛ" key1="Q" key3="q" />
+        <key key0="ḍ" key2="Ḍ" key1="W" key3="w" />
+        <key key0="e" key2="E" key1="Ẽ" key4="ẽ" />
+        <key key0="r" key2="R" />
+        <key key0="t" key2="T" />
+        <key key0="y" key2="Y" />
+        <key key0="u" key2="U" key1="Ũ" key4="ũ" />
+        <key key0="i" key2="I" key1="Ĩ" key4="ĩ" />
+        <key key0="o" key2="O" key1="Õ" key4="õ" />
+        <key key0="p" key2="P" />
+        <key key0="[" key2="{" />
+        <key key0="]" key2="}"/>
+    </row>
+    
+    <!-- Home Row (QWERTY A-L) -->
+    <row>
+        <key key0="a" key2="A" key1="Ã" key4="ã" />
+        <key key0="s" key2="S" />
+        <key key0="d" key2="D" />
+        <key key0="ö" key2="Ö" key1="Ö̃" key4="ö̃" key3="f" key5="F" />
+        <key key0="g" key2="G" />
+        <key key0="h" key2="H" />
+        <key key0="j" key2="J" />
+        <key key0="k" key2="K" />
+        <key key0="l" key2="L" />
+        <key key0=";" key2=":" />
+        <key key0="&apos;" key2="&quot;" />
+        <key key0="\" key2="|" />
+    </row>
+    
+        <!-- Bottom Row (QWERTY Z-M) -->
+    <row>
+        <key key0="ŋ" key2="Ŋ" key1="Z" key3="z" />
+        <key key0="ë" key2="Ë" key1="Ë̃" key4="ë̃" key3="x" key5="X" />
+        <key key0="c" key2="C" />
+        <key key0="ṭ" key2="Ṭ" key1="V" key3="v" />
+        <key key0="b" key2="B" />
+        <key key0="n" key2="N" />
+        <key key0="m" key2="M" />
+        <key key0="," key2="&lt;" />
+        <key key0="." key2="&gt;" />
+        <key key0="/" key2="?" key4="̃" />
+        <key key0="backspace" key2="delete" width="2" />    
+</row>
+    
+</keyboard>
