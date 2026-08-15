@@ -40,7 +40,7 @@ K("মেলা
 ## ফোনে যেমন দেখাবে
 
 ![Screenshot_20251204_012309](https://github.com/user-attachments/assets/874fe7dc-16db-4bd6-894b-842f15ca9886)\
-Unexpected Keyboard-এ—
+Unexpected Keyboard-এ—\
 <img width="528" height="529" alt="Screenshot_2026-08-15-12-55-45-382_com microsoft launcher-edit" src="https://github.com/user-attachments/assets/ec05b497-2269-4749-85f8-9725b5f95c99" />
 
 > [!NOTE]
