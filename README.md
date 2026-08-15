@@ -89,7 +89,7 @@ c("কেনো
 Placeholder
 
 ## ইনস্টলেশন নির্দেশনা 
-টারমিনালে রান করুন—\
+টারমিনালে রান করুন এবং তারপর দেখানো নির্দেশনাগুলি অনুসরণ করুন—\
 `bash -c "$(curl -fsSL https://raw.githubusercontent.com/KhiproTeam/shorolipi/main/installer.sh)"`
 
 
