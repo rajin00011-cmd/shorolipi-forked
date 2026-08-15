@@ -39,10 +39,12 @@ K("মেলা
 ```
 ## ফোনে যেমন দেখাবে
 
-![Screenshot_20251204_012309](https://github.com/user-attachments/assets/874fe7dc-16db-4bd6-894b-842f15ca9886)
+![Screenshot_20251204_012309](https://github.com/user-attachments/assets/874fe7dc-16db-4bd6-894b-842f15ca9886)\
+Unexpected Keyboard-এ—
+<img width="528" height="529" alt="Screenshot_2026-08-15-12-55-45-382_com microsoft launcher-edit" src="https://github.com/user-attachments/assets/ec05b497-2269-4749-85f8-9725b5f95c99" />
 
 > [!NOTE]
-> ফোনে লেখার সময় লং প্রেস করে পরিবর্তিত বর্ণের (ṛ ḍ ö ŋ ë ṭ) পরিবর্তে মূল qwerty লেআউটের বর্ণগুলো (q w f z x v) লেখা যাবে। ফলে চাইলে ইংরেজিতে সুইচ না করেও বাংলা ইংরেজি মিলিয়ে একসাথে লেখা যাবে।
+> ফোনে লেখার সময় লং প্রেস করে পরিবর্তিত বর্ণের (ṛ ḍ ö ŋ ë ṭ) পরিবর্তে মূল qwerty লেআউটের বর্ণগুলো (q w f z x v) লেখা যাবে। ফলে চাইলে ইংরেজিতে সুইচ না করেও বাংলা ইংরেজি মিলিয়ে একসাথে লেখা যাবে। Unexpected-এ সোয়াইপ করে ব্যবহার করা হয়।
 
 ## হাইলাইটস
 - বেশিরভাগ ধ্বনি আমাদের পরিচিত উপায়েই লেখা হবে। যেসব ধ্বনি লাতিন হরফে সরাসরি লেখা যায় না সেগুলোর জন্য বিশেষ হরফ ব্যবহার করা হবে, যেমন:
@@ -86,7 +88,8 @@ c("কেনো
 Placeholder
 
 ## ইনস্টলেশন নির্দেশনা 
-Placeholder
+টারমিনালে রান করুন—\
+`bash -c "$(curl -fsSL https://raw.githubusercontent.com/KhiproTeam/shorolipi/main/installer.sh)"`
 
 
 ## আপনার মতামত দিন কিংবা ডেভেলপমেন্টে অবদান রাখুন
