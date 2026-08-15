@@ -82,8 +82,8 @@ c("কেনো
 
 ## কীভাবে / কোথায় ব্যবহার করব?
 1. ফোনে Heliboard -এ কাস্টোম লেআউট তৈরি করে লেখা যাবে। তার জন্য [shorolipi-heliboard.txt](shorolipi-heliboard.txt) দেওয়া হয়েছে।
-2. লিনাক্স পিসিতে [bn-shorolipi.mim for m17n](bn-shorolipi.mim) ব্যবহার করে লেখা যাবে। এটা এই রিপোজিটরিতে অন্তর্ভুক্ত করা হয়েছে।
-3. [shorolipi-unexpected_keyboard.xml](shorolipi-unexpected_keyboard.xml)-এর মাধ্যমে মোবাইলে Unexpected Keyboard-এ লেখা যাবে।
+2. [shorolipi-unexpected_keyboard.xml](shorolipi-unexpected_keyboard.xml)-এর মাধ্যমে মোবাইলে Unexpected Keyboard-এ লেখা যাবে।
+3. লিনাক্স পিসিতে [bn-shorolipi.mim for m17n](bn-shorolipi.mim) ব্যবহার করে লেখা যাবে। এটা এই রিপোজিটরিতে অন্তর্ভুক্ত করা হয়েছে।
 
 ## এক নজরে (ওভারভিউ)
 Placeholder
