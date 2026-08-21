@@ -97,8 +97,8 @@ Placeholder
 🔗 টেলিগ্রাম গ্রুপ: [**সরলিপি | Shörolipi | বাংলা লিখন বিপ্লব**](https://t.me/shorolipi)
 
 ### অবদানকারীগণ
-<a href="https://github.com/<owner>/<repo>/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=<owner>/<repo>" />
+<a href="https://github.com/KhiproTeam/shorolipi/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=KhiproTeam/shorolipi" />
 </a>
 
 ## বিস্তারিত নির্দেশনা
